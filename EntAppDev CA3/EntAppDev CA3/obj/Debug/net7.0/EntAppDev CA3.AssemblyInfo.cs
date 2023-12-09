@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EntAppDev CA3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3bb4e4b86dff5b796f87ab0b15451c5ef8dc32eb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdd1a469d643f4ec5d8b93e8b56e5564e812a987")]
 [assembly: System.Reflection.AssemblyProductAttribute("EntAppDev CA3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EntAppDev CA3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
