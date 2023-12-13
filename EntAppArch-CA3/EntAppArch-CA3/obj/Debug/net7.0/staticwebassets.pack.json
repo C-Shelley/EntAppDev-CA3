@@ -73,6 +73,10 @@
       "PackagePath": "staticwebassets\\index.html"
     },
     {
+      "Id": "C:\\Users\\ciara\\EntAppDev-CA3\\EntAppArch-CA3\\EntAppArch-CA3\\wwwroot\\rocket.png",
+      "PackagePath": "staticwebassets\\rocket.png"
+    },
+    {
       "Id": "C:\\Users\\ciara\\EntAppDev-CA3\\EntAppArch-CA3\\EntAppArch-CA3\\wwwroot\\sample-data\\weather.json",
       "PackagePath": "staticwebassets\\sample-data\\weather.json"
     },

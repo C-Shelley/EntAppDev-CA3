@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3MuDzlhKTQjKbzRFBESa04tqb9qinb2l0g4HHj9YC0c=",
+  "Hash": "1aWM7BHeI1jtdteadB0XUE3jbgX5zDAMQ/AaKuQlOIo=",
   "Source": "EntAppArch-CA3",
   "BasePath": "/",
   "Mode": "Root",
@@ -7976,6 +7976,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\ciara\\EntAppDev-CA3\\EntAppArch-CA3\\EntAppArch-CA3\\wwwroot\\rocket.png",
+      "SourceId": "EntAppArch-CA3",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ciara\\EntAppDev-CA3\\EntAppArch-CA3\\EntAppArch-CA3\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "rocket.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\rocket.png"
     },
     {
       "Identity": "C:\\Users\\ciara\\EntAppDev-CA3\\EntAppArch-CA3\\EntAppArch-CA3\\wwwroot\\sample-data\\weather.json",

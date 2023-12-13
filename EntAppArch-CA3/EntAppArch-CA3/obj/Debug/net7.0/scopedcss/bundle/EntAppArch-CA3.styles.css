@@ -10,7 +10,7 @@ main[b-lezixwmltv] {
 }
 
 .sidebar[b-lezixwmltv] {
-    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+    background-color: #393D47;
 }
 
 .top-row[b-lezixwmltv] {
@@ -80,6 +80,7 @@ main[b-lezixwmltv] {
         padding-right: 1.5rem !important;
     }
 }
+
 /* /Shared/NavMenu.razor.rz.scp.css */
 .navbar-toggler[b-dcek3pddhm] {
     background-color: rgba(255, 255, 255, 0.1);
@@ -149,3 +150,4 @@ main[b-lezixwmltv] {
         overflow-y: auto;
     }
 }
+
