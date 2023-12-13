@@ -1,7 +1,7 @@
 {
   "entryAssembly": "EntAppArch-CA3",
   "resources": {
-    "hash": "sha256-fa6L+Z8FVCiD5iILjgKjEZPhIfyHlGtE2TJmSj/Bak8=",
+    "hash": "sha256-wadgxNhkB/zsPax4OrFicCPd1GFht6rEtkLLNnFhZz8=",
     "runtime": {
       "dotnet.7.0.14.hch4m35e4a.js": "sha256-YWGUknGRzP/fgO6YjvCJKPVQNZAPEd6ll+rHfQEIW+I=",
       "dotnet.timezones.blat": "sha256-t5xviiOQTfAsF0UDhmcyalKiaehUmf/sqJl97tmPM0M=",
@@ -202,10 +202,10 @@
       "mscorlib.dll": "sha256-YcsJInaT/kw3Vrm+SESegPxvT/Lr9RE6rE/KnxWIIc0=",
       "netstandard.dll": "sha256-TztlSRjADgiEABbiAMdWZpHrUVd8wnRtQRAvlwmRP/4=",
       "System.Private.CoreLib.dll": "sha256-BAhrZ8Zg3cJKQipxdzqQo+9jtPkOkRx1ou3oIhDohtk=",
-      "EntAppArch-CA3.dll": "sha256-e0vhZ1tO00BhcGsxcFkcZrN5ygBnpYz0evpzsLR6eYY="
+      "EntAppArch-CA3.dll": "sha256-7Msoizb8Uja+TU3CqAP5+X07pPfpVAHI48fwTZ1vtVE="
     },
     "pdb": {
-      "EntAppArch-CA3.pdb": "sha256-GnIQpYwXmHnpAKgwDSOK9J+cuNOO/gZB7kPaWpyrlVA="
+      "EntAppArch-CA3.pdb": "sha256-Re691RdswBBaucMs/efq3N5kRj5ihC23fuveMf5uNbQ="
     },
     "runtimeAssets": {
       "dotnet.wasm": {
