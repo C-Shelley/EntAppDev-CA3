@@ -11,8 +11,8 @@ build_property.InvariantGlobalization = false
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = browser
-build_property.RootNamespace = EntAppArch-CA3
-build_property.RootNamespace = EntAppArch-CA3
+build_property.RootNamespace = EntAppDev-CA3
+build_property.RootNamespace = EntAppDev-CA3
 build_property.ProjectDir = C:\Users\ciara\EntAppArch-CA3\EntAppArch-CA3\EntAppArch-CA3\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
@@ -36,8 +36,8 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/ciara/EntAppArch-CA3/EntAppArch-CA3/EntAppArch-CA3/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-lezixwmltv
+build_metadata.AdditionalFiles.CssScope = b-x98bqamm3j
 
 [C:/Users/ciara/EntAppArch-CA3/EntAppArch-CA3/EntAppArch-CA3/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-dcek3pddhm
+build_metadata.AdditionalFiles.CssScope = b-mdlzanhczc

@@ -1962,11 +1962,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ciara\\EntAppDev-CA3\\EntAppArch-CA3\\EntAppArch-CA3\\EntAppArch-CA3.csproj",
+      "projectUniqueName": "C:\\Users\\ciara\\EntAppArch-CA3\\EntAppArch-CA3\\EntAppArch-CA3\\EntAppArch-CA3.csproj",
       "projectName": "EntAppArch-CA3",
-      "projectPath": "C:\\Users\\ciara\\EntAppDev-CA3\\EntAppArch-CA3\\EntAppArch-CA3\\EntAppArch-CA3.csproj",
+      "projectPath": "C:\\Users\\ciara\\EntAppArch-CA3\\EntAppArch-CA3\\EntAppArch-CA3\\EntAppArch-CA3.csproj",
       "packagesPath": "C:\\Users\\ciara\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ciara\\EntAppDev-CA3\\EntAppArch-CA3\\EntAppArch-CA3\\obj\\",
+      "outputPath": "C:\\Users\\ciara\\EntAppArch-CA3\\EntAppArch-CA3\\EntAppArch-CA3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ciara\\AppData\\Roaming\\NuGet\\NuGet.Config",

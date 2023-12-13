@@ -3542,11 +3542,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ciara\\EntAppDev-CA3\\EntAppArch-CA3\\SeleniumTest\\SeleniumTest.csproj",
+      "projectUniqueName": "C:\\Users\\ciara\\EntAppArch-CA3\\EntAppArch-CA3\\SeleniumTest\\SeleniumTest.csproj",
       "projectName": "SeleniumTest",
-      "projectPath": "C:\\Users\\ciara\\EntAppDev-CA3\\EntAppArch-CA3\\SeleniumTest\\SeleniumTest.csproj",
+      "projectPath": "C:\\Users\\ciara\\EntAppArch-CA3\\EntAppArch-CA3\\SeleniumTest\\SeleniumTest.csproj",
       "packagesPath": "C:\\Users\\ciara\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ciara\\EntAppDev-CA3\\EntAppArch-CA3\\SeleniumTest\\obj\\",
+      "outputPath": "C:\\Users\\ciara\\EntAppArch-CA3\\EntAppArch-CA3\\SeleniumTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ciara\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3563,8 +3563,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\ciara\\EntAppDev-CA3\\EntAppArch-CA3\\EntAppArch-CA3\\EntAppArch-CA3.csproj": {
-              "projectPath": "C:\\Users\\ciara\\EntAppDev-CA3\\EntAppArch-CA3\\EntAppArch-CA3\\EntAppArch-CA3.csproj"
+            "C:\\Users\\ciara\\EntAppArch-CA3\\EntAppArch-CA3\\EntAppArch-CA3\\EntAppArch-CA3.csproj": {
+              "projectPath": "C:\\Users\\ciara\\EntAppArch-CA3\\EntAppArch-CA3\\EntAppArch-CA3\\EntAppArch-CA3.csproj"
             }
           }
         }

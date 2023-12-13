@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SeleniumTest
-build_property.ProjectDir = C:\Users\ciara\EntAppDev-CA3\EntAppArch-CA3\SeleniumTest\
+build_property.ProjectDir = C:\Users\ciara\EntAppArch-CA3\EntAppArch-CA3\SeleniumTest\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
