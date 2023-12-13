@@ -16,12 +16,15 @@ namespace SeleniumTest
         public void Test1()
         {
             var opt = new ChromeOptions();
-            opt.AddArgument("--headless");
+            
             using IWebDriver driver = new ChromeDriver(opt);
 
 
             driver.Navigate().GoToUrl(appURI);
-            driver.FindElement(By.Name("button")).Click();
+            
+
+            driver.FindElement(By.Id("button")).Click();
+            
         }
     }
 }
